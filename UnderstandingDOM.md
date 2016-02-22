@@ -28,4 +28,4 @@ One listings page contains the information of one apartment/home listing. The in
 
 All this information is contained in:
 _<html> > <div id="ip_page_wrapper"> > <div id="content_wrapper"> > <div class="centerframe" id="mainframe"> > <div id="container"> > <div class="main_content"> > <div class="article anzeige" id="main" role="main"> > <div id="gewerbliche_anzeige">_
-Then it contains paragraps _p_ with text. It also has the entry date in <p class="entry_date">
+Then it contains paragraps _p_ with text. It also has the entry date in <p class="entry_date"> 
