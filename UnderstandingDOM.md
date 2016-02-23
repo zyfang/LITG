@@ -28,7 +28,9 @@ Inside the _li_ there is a link to the listing itself with the title and date. T
 The li can have a class. The different classes I've observed are " first gewerblich", " gewerblich" and " photo". They seem to correspond with the icons displayed after the listing title. E.g. either an euro sign or a photo icon. This seems to indicate whether a listing is commercial and whether there are photo's included.
 
 I don't see the difference between " first gewerblich" and "gewerblich". 
+
 **Question: Can I see the class declaration of that somewhere?**
+
 **What does "::before" in the span class="fa fa-eur" and span class="fa fa-angle-right" do?**
 
 Other relevant information might be the date headers (though I think it's more straightforward to get it from the listitem). The date headers are in 
@@ -54,3 +56,34 @@ All this information is contained in:
 ```
 
 Then it contains paragraps _p_ with text. It also has the entry date in `<p class="entry_date">`
+
+**Note: I'm surprised that the HTML code appears to be actually documented/commented :)**
+
+###Engel&Völkers
+####Main page(s)
+
+This company seems to be active in more than one city. The main page contains a search box for the type of property one is looking for.
+
+**Note: should look into how to simulate user activity**
+
+A general search for apartments/houses in Bremen directs [here](http://www.engelvoelkers.com/search?frmlc=&srch=iframe-criteria&language=de&q=bremen&facets=bsnssr:residential;typ:rent;cntry:germany;rgn:bremen;dstrct:bremen)
+
+This brings us to a page with listings. Eacg listing is contained in:
+```
+<html>
+	<body>
+		<div id="wrap">
+			<div class="contentBox row">
+				<div id="results" class="nine last">
+					<div class="item residential-rent first">
+						<a class="ev-exposee-teaser-link" href="[...]"
+```
+The link to the listing actually contains a photo of the property and various information such as price and space. 
+- Image: `<div class="imageContainer three">` 
+- Other information: `<div class="item_details six last">`
+	- Header: `<a class="ev-clickable primary">` with a link to the detailed page and text for the header
+	- Details what appear to be search-tags related inside a paragraph tag: e.g. type of property, type of ad (sale or rent), country, city, city district
+	- Size, number of rooms (number of bathrooms, number of bedrooms), ID: `<div class= "left three"> *(seems to correspond to there usually being three items in the left column of this section). Inside that container there are divs with classes called "labelValue", which each contain a `label`, a `span` and a `div` container.
+	- Total rent, bare rent, Nebenkosten: `<div class= "right three last"> <div class="price">`. Inside that container there are three divs with class "labelValue", which each contain a `label`, `span`, and `div` container. Label "Nebenkosten" is not always defined as there is not always a number available here. For example, the span might instead contain "zzgl. Nebenkosten" (Nebenkosten will be added to the price).
+
+####Listings page
