@@ -68,7 +68,7 @@ This company seems to be active in more than one city. The main page contains a 
 
 A general search for apartments/houses in Bremen directs [here](http://www.engelvoelkers.com/search?frmlc=&srch=iframe-criteria&language=de&q=bremen&facets=bsnssr:residential;typ:rent;cntry:germany;rgn:bremen;dstrct:bremen)
 
-This brings us to a page with listings. Eacg listing is contained in:
+This brings us to a page with listings. Each listing is contained in:
 ```
 <html>
 	<body>
@@ -87,3 +87,59 @@ The link to the listing actually contains a photo of the property and various in
 	- Total rent, bare rent, Nebenkosten: `<div class= "right three last"> <div class="price">`. Inside that container there are three divs with class "labelValue", which each contain a `label`, `span`, and `div` container. Label "Nebenkosten" is not always defined as there is not always a number available here. For example, the span might instead contain "zzgl. Nebenkosten" (Nebenkosten will be added to the price).
 
 ####Listings page
+The page with details of a single listing contains all important information in a field on the left, while the center contains a detailed description of the property (and any special details that might be worth mentioning) and its surroundings in simple text. The leftfield seems to be the most interesting part for analysis.
+
+The organized information is contained in:
+```
+<html>
+	<body>
+		<div id="wrap">
+			<div id="floater">
+				<div itemscope itemtype="http://schema.org/Product">
+					<div id="canvas">
+						<div class="line row">
+							<div id="sidebar-left-bottom" class="item2 column three">
+								<div id="block block-user" id="block-user-0">
+									<div class="sap-content">
+										<div id="properties">
+```
+This properties container contains divs with class "price", several "labelValue" and seceral "ev-detail-item" (for information relating to energy certificates, which is requried for each housing here). The following properties are given (not all details are given for all listings. In that case the field simply doesn't exist):
+- Kaltmiete
+- Nebenkosten
+- ID
+- Objectunterart
+- (Baujahr)
+- Zimmer
+- (Badezimmer)
+- Wohnfläche ca.
+- (Terasse)
+- Befeuerungsart
+- Bodenbelag
+- Ausstattung
+- Zustand
+- Lage
+- Energieinformationen
+	- Art
+	- (Endenergiebedarf)
+	- (Energieverbrauchskennwert)
+	- Befeuerungsart
+	- (Baujahr)
+	- Energieeffizienzklasse
+
+What this does **not** contain is the actual location of the property. The city district is sometimes mentioned in the title. It is always mentioned in the subtitle:
+```
+<html>
+	<body>
+		<div id="wrap">
+			<div id="floater">
+				<div itemscope itemtype="http://schema.org/Product">
+					<div id="canvas">
+						<div class="line row">
+							<div class="maincontent item2 column six last">
+								<div class="sap-content">
+									<div class="heading">
+										<div class="exposee_title">
+											<span>
+```
+
+*Note: it seems a bit bothersome that the actual address is not named. Since the law change last year, the renter does not pay the real estate agent commission and agents have increasingly published the full address (since they will get their commission from the owner anyway). Maybe I should look for a different website?*
