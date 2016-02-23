@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<sixcms_data>
+<sixcms_info>Open Data - IT-System Bremen, Wohnungsvermittlungen</sixcms_info>
+<sixcms_article>
+<id>343432</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>Cordes &amp; Bruns Immobilien</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Spitzenkiel</field>
+<field name="hausnummer" type="text">14-15</field>
+<field name="lage" type="text"></field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text"></field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28195</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">info@cordes-bruns.de</field>
+<field name="telefon" type="text">(0421) 437729-0</field>
+<field name="fax" type="text">(0421) 437729-29</field>
+<field name="homepage" type="text">http://www.cordes-bruns.de</field>
+<field name="oeffnungszeiten" type="text">&lt;p&gt;Mo-Do 08:00 - 13:00&lt;br /&gt; Mo-Do 14:00 - 17:00&lt;br /&gt;und nach Vereinbarung&lt;/p&gt;</field>
+<field name="latitude" type="text">53.0795995</field>
+<field name="longitude" type="text">8.8037882</field>
+<field name="beschreibung" type="text">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;div class=&quot;min-height&quot;&gt;
+&lt;h2 id=&quot;swHeadline&quot;&gt;Immobilienverkauf &amp;amp; Vermietung&lt;/h2&gt;
+&lt;div id=&quot;swMainCnt&quot;&gt;
+&lt;p&gt;Ob nun Eigentumswohnungen aus unserem Verwaltungsbestand,  Stadth&amp;auml;user oder Einfamilienh&amp;auml;user am Stadtrand, ob nun die Wohnungen  frei geliefert oder vermietet als Kapitalanlage angeboten werden sollen -  Cordes &amp;amp; Bruns ist Ihr zuverl&amp;auml;ssiger Partner und bietet Ihnen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 13px; line-height: 1.5em;&quot;&gt;Kaufpreisfindung auf Basis umfassender Marktkenntnisse&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 13px; line-height: 1.5em;&quot;&gt;zielgruppenorientiertes Vertriebsmarketing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 13px; line-height: 1.5em;&quot;&gt;&amp;Uuml;bernahme der gesamten Kundenkommunikation und der Durchf&amp;uuml;hrung von&amp;nbsp;Besichtigungsterminen&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 13px; line-height: 1.5em;&quot;&gt;&amp;Uuml;bernahme der Kaufpreisverhandlungen&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 13px; line-height: 1.5em;&quot;&gt;Abwicklung des Kaufvertrags in Zusammenarbeit mit einem anerkannten Notariat.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;div class=&quot;min-height&quot;&gt;
+&lt;h2 id=&quot;swHeadline&quot;&gt;CB Immobilienverwaltung&lt;/h2&gt;
+&lt;div id=&quot;swMainCnt&quot;&gt;
+&lt;p&gt;&lt;a class=&quot;iframe&quot; href=&quot;http://www.youtube.com/embed/BU-LxqzB79c?rel=0&quot;&gt; &lt;img class=&quot;links&quot; style=&quot;font-size: 13px; line-height: 19.5px; width: 225px; height: 122px;&quot; src=&quot;http://www.cordes-bruns.de/media/images/mediathek/immobilienverwaltung-youtube_225x122.jpg&quot; alt=&quot;&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Die langfristige Werterhaltung ihrer Immobilie ist unsere oberste  Zielsetzung. Wir verwalten Ihre Immobilie unter Einsatz moderner IT  Systeme und Unternehmenssoftware.&lt;/p&gt;
+&lt;p&gt;Historisch gewachsene Verbindungen, umfassende Kenntnis in allen  Bereichen der Immobilienwirtschaft sind die Basis f&amp;uuml;r das Vertrauen  unserer langj&amp;auml;hrigen Kunden.&lt;/p&gt;
+&lt;p&gt;Sie k&amp;ouml;nnen auf die unterschiedlichen Spezialisten unseres Hauses und  deren Know-how zur&amp;uuml;ckgreifen. Bei komplexeren Themen in der  Immobilienverwaltung bieten wir Ihnen Optimierungsbausteine an.&lt;br /&gt; Nutzen Sie unsere umfangreichen Erfahrungen in der Verwaltung von Wohn-  und Gewerbeimmobilien und in der Betreuung von  Wohnungseigent&amp;uuml;mergemeinschaften.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Wir sind Mitglied in den Berufsverb&amp;auml;nden Immobilienverband Deutschland und des Forschungsverbandes f&amp;uuml;r Immobilien, Hypotheken und Baurecht e.V. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;der Bremer Immobilien B&amp;ouml;rse e.V.&lt;/p&gt;
+&lt;p&gt;dem Erfakreis Winimmo, in dem sich 9 &amp;uuml;berregional t&amp;auml;tige Immobilienunternehmen f&amp;uuml;r den Nord-/Westdeutschen Raum zusammengeschlossen haben, um eine nachaltige Immobilienberatung und -betreuung durchf&amp;uuml;hren zu k&amp;ouml;nnen.&lt;/p&gt;</field>
+</sixcms_article>
+<sixcms_article>
+<id>341673</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>GEWOSIE Wohnungsbaugenossenschaft Bremen-Nord e.G.</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Hammersbecker Straße</field>
+<field name="hausnummer" type="text">173</field>
+<field name="lage" type="text"></field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text"></field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28755</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">info@gewosie.de</field>
+<field name="telefon" type="text">(0421) 65844-0</field>
+<field name="fax" type="text">(0421) 65844-47</field>
+<field name="homepage" type="text">http://www.gewosie.de</field>
+<field name="oeffnungszeiten" type="text">Mo + Do 08:00 - 18:00&lt;br /&gt;
+Di + Mi 08:00 - 16:30&lt;br /&gt;
+Fr 08:00 - 12:15&lt;br /&gt;</field>
+<field name="latitude" type="text">53.1848</field>
+<field name="longitude" type="text">8.60428</field>
+<field name="beschreibung" type="text">Unsere Genossenschaft wurde 1894 durch den Blumenthaler Landrat, Paul Berthold, gegründet und entwickelte sich bis heute zu einem der größten Wohnungsanbieter im Bremer Norden.&lt;br /&gt;
+In dieser Region zwischen Weser und Lesum verwirklichen wir das WOHNEN  im  GRÜNEN. Ein Stückchen Lebensqualität für Jung und Alt.&lt;br /&gt;
+Wir verwalten und bewirtschaften rund 4.150 eigene Mietwohnungen.&lt;br /&gt;
+Auf der Grundlage unserer Satzung wird die Genossenschaft von knapp 7.300 Mitgliedern getragen.</field>
+</sixcms_article>
+<sixcms_article>
+<id>339401</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>GEWOBA Aktiengesellschaft Wohnen und Bauen</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Rembertiring</field>
+<field name="hausnummer" type="text">27</field>
+<field name="lage" type="text"></field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text"></field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28195</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">zuhause@gewoba.de</field>
+<field name="telefon" type="text">(04 21) 36 72 - 1 01</field>
+<field name="fax" type="text">(04 21) 36 72 - 1 03</field>
+<field name="homepage" type="text">http://www.gewoba.de</field>
+<field name="oeffnungszeiten" type="text"></field>
+<field name="latitude" type="text">53.0786173</field>
+<field name="longitude" type="text">8.8168557</field>
+<field name="beschreibung" type="text">GEWOBA
+Aktiengesellschaft
+Wohnen und Bauen
+&lt;a href=&quot;http://www.gewoba.de&quot; target=&quot;_blank&quot;&gt;http://www.gewoba.de&lt;/a&gt; - bei uns finden Sie alles rund um das Thema Wohnen und Wohlfühlen - ob Sie  private oder gewerbliche Räume suchen. Neben der Komplettverwaltung und verschiedenen Dienstleistungen bieten wir Ihnen das passende Objekt. Klicken Sie sich einfach zu Ihren neuen vier Wänden.</field>
+</sixcms_article>
+<sixcms_article>
+<id>341929</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>Beamten Baugesellschaft Bremen GmbH</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Pelzerstraße</field>
+<field name="hausnummer" type="text">40</field>
+<field name="lage" type="text">Direkt neben dem Bürgerservicecenter</field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text">Altstadt</field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28195</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">service@daig.info</field>
+<field name="telefon" type="text">0421-277740</field>
+<field name="fax" type="text">(0421) 3687-281</field>
+<field name="homepage" type="text">www.vonovia.de</field>
+<field name="oeffnungszeiten" type="text">&lt;p&gt;Mo. + Do. : 09:30 bis 18:00 Uhr&lt;br /&gt; Di., Mi., Fr., Sa. :&amp;nbsp;09:30 bis 13:00 Uhr&lt;/p&gt;</field>
+<field name="latitude" type="text">53.0777939</field>
+<field name="longitude" type="text">8.8063219</field>
+<field name="beschreibung" type="text">Was geschah in der Kanzleistube des beurkundenden Bremer Notars an jenem Tag? Eine juristische Person wurde geboren. Man gab ihr den Namen Beamten-Baugesellschaft Bremen GmbH. Die Zeitläufe in der Jugend waren alles andere als normal. Inflation und Weltwirtschaftskrise, Zweiter Weltkrieg und Zusammenbruch, Geldentwertung und Währungsreform, Wiederaufbau.&lt;br /&gt;
+&lt;br /&gt;
+In der Nachkriegszeit hatte die Beamten-Baugesellschaft den schnellen Wiederaufbau Bremens vorangetrieben und somit den Bürgern schon damals wieder ein Dach über dem Kopf gewährt. Das ist bis heute so geblieben. Als Wohnungsbaugesellschaft, nicht nur für Beamte, bieten wir in Bremen ca. 4.000 Wohnungen zum Wohnen, Leben und Wohlfühlen an.&lt;br /&gt;
+&lt;br /&gt;
+Mit Wohnungsbestand in Bremen, Bremen-Nord und Bremerhaven bieten wir zahlreiche Wohnungstypen und Wohnungszuschnitte an, so dass für jeden etwas dabei ist. </field>
+</sixcms_article>
+<sixcms_article>
+<id>11366805</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>Galileo Residenz Bremen GmbH &amp; Co. KG</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Fahrenheitstraße</field>
+<field name="hausnummer" type="text">19-25</field>
+<field name="lage" type="text">Campus/Unimensa</field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text">Lehe</field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28359</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">bremen@galileoresidenz.com</field>
+<field name="telefon" type="text">0421 6 96 47 60</field>
+<field name="fax" type="text"></field>
+<field name="homepage" type="text">http://www.galileoresidenz.de</field>
+<field name="oeffnungszeiten" type="text">Musterwohnungen jetzt besichtigen&lt;br /&gt;
+Montag bis Donnerstag: 9-18 Uhr
+Freitag: 9-17 Uhr</field>
+<field name="latitude" type="text">53.02266</field>
+<field name="longitude" type="text">8.98198</field>
+<field name="beschreibung" type="text">Neue Studentenwohnungen direkt auf dem Campus&lt;br /&gt;
+- komplett ausgestattete Küche&lt;br /&gt;
+- möblierte, freundliche Zimmer&lt;br /&gt;
+- alle Nebenkosten sind in der Miete enthalten&lt;br /&gt;</field>
+</sixcms_article>
+<sixcms_article>
+<id>12715936</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>MIBEA &amp; Wohnen auf Zeit</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Postanschrift: Albrechtstraße</field>
+<field name="hausnummer" type="text">6</field>
+<field name="lage" type="text">Ostertor</field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text">Ostertor</field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28203</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">kontakt@mibea.de</field>
+<field name="telefon" type="text">(0421) 69 68 68 30  ab 10.00 Uhr</field>
+<field name="fax" type="text">Mobil: 0176 - 51308082</field>
+<field name="homepage" type="text">http://www.mibea.de</field>
+<field name="oeffnungszeiten" type="text">&lt;p&gt;Montag - Freitag&lt;br /&gt;von 10.00 bis 18.00 Uhr &lt;br /&gt;&lt;br /&gt;Samstags nach Vereinbarung&lt;br /&gt;&lt;br /&gt; &amp;Uuml;ber MIBEA &amp;amp; Wohnen auf Zeit erfahren Sie weiter unten mehr.&lt;/p&gt;</field>
+<field name="latitude" type="text">53.07442</field>
+<field name="longitude" type="text">8.82095</field>
+<field name="beschreibung" type="text">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; &lt;w:WordDocument&gt; &lt;w:View&gt;Normal&lt;/w:View&gt; &lt;w:Zoom&gt;0&lt;/w:Zoom&gt; &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt; &lt;w:Compatibility&gt; &lt;w:BreakWrappedTables /&gt; &lt;w:SnapToGridInCell /&gt; &lt;w:WrapTextWithPunct /&gt; &lt;w:UseAsianBreakRules /&gt; &lt;/w:Compatibility&gt; &lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt; &lt;/w:WordDocument&gt; &lt;/xml&gt;&lt;![endif]--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!--[if gte mso 10]&gt; &lt;mce:style&gt;&lt;!   /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:&quot;Normale Tabelle&quot;; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-parent:&quot;&quot;; 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt; 	mso-para-margin:0cm; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:&quot;Times New Roman&quot;;} --&gt; &lt;!--[endif] --&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;--- Herzlich willkommen bei MIBEA &amp;amp; Wohnen auf Zeit ---&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;Sie suchen eine freundliche, m&amp;ouml;blierte Wohnung in Bremen? &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;Bei uns finden Sie sch&amp;ouml;ne Appartements, Zimmer, Wohnungen und H&amp;auml;user&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;f&amp;uuml;r m&amp;ouml;bliertes Wohnen auf Zeit. &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;Sie m&amp;ouml;chten freundlich und kompetent beraten und betreut werden und &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;m&amp;ouml;glichst schnell und unkompliziert Ihre Wohnraumsuche zum Erfolg f&amp;uuml;hren?&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;&lt;br /&gt; &lt;span style=&quot;mso-bidi-font-weight: bold;&quot;&gt;Dann sind Sie bei MIBEA genau richtig!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;In unserer stets aktualisierten Datenbank finden Sie unsere m&amp;ouml;blierten Wohnraum- Angebote mitausf&amp;uuml;hrlichen Informationen und vielen Bildern.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;&lt;span style=&quot;mso-bidi-font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;Wir freuen uns &amp;uuml;ber Ihren Besuch unter: &lt;strong&gt;www.mibea.de&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;Herzliche Gr&amp;uuml;&amp;szlig;e von Inh. Patricia Marohn&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.0pt; mso-bidi-font-style: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 11.0pt; font-family: Arial;&quot;&gt;&lt;br style=&quot;mso-special-character: line-break;&quot; /&gt; &lt;br style=&quot;mso-special-character: line-break;&quot; /&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</field>
+</sixcms_article>
+<sixcms_article>
+<id>26976147</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>ihre-immobilie.info</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Hemmstraße</field>
+<field name="hausnummer" type="text">182/184</field>
+<field name="lage" type="text"></field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text">Regensburger Straße</field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28215</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">kontakt@ihre-immobilie.info</field>
+<field name="telefon" type="text">0421-56627250</field>
+<field name="fax" type="text">0421-566272513</field>
+<field name="homepage" type="text">www.ihre-immobilie.info</field>
+<field name="oeffnungszeiten" type="text">&lt;p&gt;Mo.-Fr. 9.00 bis 18.00&lt;/p&gt;
+&lt;p&gt;Sa. 10.00 bis 13.00&lt;/p&gt;
+&lt;p&gt;oder Termine nach Vereinbarung&lt;/p&gt;</field>
+<field name="latitude" type="text">53.0942121</field>
+<field name="longitude" type="text">8.8063447</field>
+<field name="beschreibung" type="text"></field>
+</sixcms_article>
+<sixcms_article>
+<id>27010132</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>mach1s immoblilien</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Glücksburger Straße</field>
+<field name="hausnummer" type="text">100</field>
+<field name="lage" type="text">Walle</field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text">Osterfeuerberg</field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28219</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">info@cuxxlux.de</field>
+<field name="telefon" type="text">01732460327</field>
+<field name="fax" type="text">04212437148</field>
+<field name="homepage" type="text"></field>
+<field name="oeffnungszeiten" type="text">&lt;p&gt;Termine nach Vereinbarung&lt;/p&gt;</field>
+<field name="latitude" type="text">53.1039504</field>
+<field name="longitude" type="text">8.7924949</field>
+<field name="beschreibung" type="text"></field>
+</sixcms_article>
+<sixcms_article>
+<id>29929117</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>Ariane Wontorra Immobilien</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Berckstraße</field>
+<field name="hausnummer" type="text">16 a</field>
+<field name="lage" type="text"></field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text">Horn</field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28359</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">info@ariane-wontorra-immobilien.de</field>
+<field name="telefon" type="text">0421 20 10 410</field>
+<field name="fax" type="text">0421 20 10 408</field>
+<field name="homepage" type="text"></field>
+<field name="oeffnungszeiten" type="text"></field>
+<field name="latitude" type="text">53.09745</field>
+<field name="longitude" type="text">8.87239</field>
+<field name="beschreibung" type="text"></field>
+</sixcms_article>
+<sixcms_article>
+<id>343301</id>
+<container>01_bremen.de: 01_einrichtungen: 01_einrichtungen</container>
+<title>BLB Immobilien GmbH</title>
+<field name="abkuerzung" type="text"></field>
+<field name="sixcms_parent" type="links" key="id"></field>
+<field name="strasse" type="text">Kleine Waagestraße</field>
+<field name="hausnummer" type="text">3</field>
+<field name="lage" type="text"></field>
+<field name="adresszusatz" type="text"></field>
+<field name="postfach" type="text"></field>
+<field name="ortsteil" type="text"></field>
+<field name="plz_postfach" type="text"></field>
+<field name="plz" type="text">28195</field>
+<field name="ort" type="text">Bremen</field>
+<field name="email" type="text">info@blb-immobilien.de</field>
+<field name="telefon" type="text">0421 33927-0</field>
+<field name="fax" type="text">0421 33927-40</field>
+<field name="homepage" type="text">www.blb-immobilien.de</field>
+<field name="oeffnungszeiten" type="text">&lt;p&gt;Mo. - Do.&amp;nbsp; 8:30 - 17:30 Uhr &lt;br /&gt;Fr.&amp;nbsp; 8:30 - 16:00 Uhr&lt;/p&gt;</field>
+<field name="latitude" type="text">53.0765874</field>
+<field name="longitude" type="text">8.80598</field>
+<field name="beschreibung" type="text">&lt;p class=&quot;bodytext&quot;&gt;&lt;strong&gt;Von Grund auf anders.&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;Pers&amp;ouml;nlich. Verbindlich. Transparent.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Ihre individuellen Immobilien- und Investment-W&amp;uuml;nsche zu erf&amp;uuml;llen haben wir uns zum Ziel gesetzt &amp;ndash; gleich, ob Sie eine Immobilie kaufen, verkaufen, mieten oder durch uns projektieren oder managen lassen m&amp;ouml;chten. Eine ganzheitliche und professionelle Betreuung ist dabei die Basis unserer Gesch&amp;auml;ftsbeziehung.&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Getreu unserer Maxime &amp;bdquo;Von Grund auf anders. Pers&amp;ouml;nlich. Verbindlich. Transparent.&amp;ldquo; legen wir Ihnen gegen&amp;uuml;ber gro&amp;szlig;en Wert auf eine pers&amp;ouml;nliche Beratung, hanseatische Verbindlichkeit und h&amp;ouml;chste Transparenz.&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Unsere Gesch&amp;auml;ftsfelder gliedern sich in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Immobilien-Vermittlung&lt;/li&gt;
+&lt;li&gt;Immobilien-Management&lt;/li&gt;
+&lt;li&gt;Projekt-Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Die BLB Immobilien GmbH ist eine Konzerntochter der Bremer Landesbank und wurde im Jahre 1977 gegr&amp;uuml;ndet. Sie z&amp;auml;hlt heute zu den bedeutenden regionalen  Immobiliendienstleistern im Nordwesten mit Standorten in Bremen und Oldenburg.&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Wir bieten integrierte Dienstleistungen f&amp;uuml;r Eigent&amp;uuml;mer, Nutzer und Investoren sowie f&amp;uuml;r &amp;ouml;ffentliche Organisationen und Privatpersonen.&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Nach unserer &amp;Uuml;berzeugung sind fundierte Kenntnisse der lokalen M&amp;auml;rkte die Basis f&amp;uuml;r den Erfolg am Immobilienmarkt. Unser Ziel ist es Kundenbeziehungen aufzubauen, die verbindlich auf Qualit&amp;auml;t, Transparenz und Vertrauen beruhen.&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;Dieses Leitbild repr&amp;auml;sentieren wir auch als Mitglied im IVD (Immobilienverband Deutschland IVD Bundesverband der Immobilienberater, Makler, Verwalter und Sachverst&amp;auml;ndigen e.V.).&lt;/p&gt;
+&lt;p class=&quot;bodytext&quot;&gt;&lt;strong&gt;Wir begeistern unsere Kunden.&lt;/strong&gt;&lt;/p&gt;</field>
+</sixcms_article>
+</sixcms_data>
