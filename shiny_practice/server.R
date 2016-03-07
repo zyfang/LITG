@@ -3,7 +3,7 @@ library(shiny)
 #Execute once, when app is launched
 
 ##Read data
-demographics <- demographicmovement_bremen <- read.csv("C:/Users/Yuen/Dropbox/Development/Programming/LITG/LITG/shiny_practice/data/demographicmovement_bremen.csv", sep=";",skip=7, na.strings=c("x")) #na.strings indicate which strings should be seen as missing values NA
+demographics <- demographicmovement_bremen <- read.csv("C:/Users/Yuen/Dropbox/Development/Programming/LITG/LITG/shiny_practice/data/demographicmovement_bremen.csv", sep=";",na.strings=c("x")) #skip=7,  #na.strings indicate which strings should be seen as missing values NA
 ##Clean data such that it doesn't have the pointless first column and cut off the values that are the total values for Bremen and Bremerhaven, leaving only the data for Bremen per district
 clean_data <- data.frame(demographicmovement_bremen[2:115,-1])
 ##Area names
