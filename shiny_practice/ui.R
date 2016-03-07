@@ -1,38 +1,22 @@
 library(shiny)
 
 # Define UI for application that draws a histogram
-shinyUI(fluidPage(
+shinyUI(
+  fluidPage(
 
-  # Application title
-  titlePanel("Hello World!"),
-
-  # Sidebar with a slider input for the number of bins
-  sidebarLayout(
-    sidebarPanel(
-      sliderInput("bins",
-                  "Number of bins:",
-                  min = 5,
-                  max = 50,
-                  value = 30)
-    ),
-
+    # Application title
+    titlePanel("Shiny practice - Migration in Bremen 2014"),
+    
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("distPlot")
+      plotOutput("migrationPlot", width="100%")
+    ),
+    
+    #Show y-axis selection beneath the plot to give the plot more space
+    fluidRow(
+          selectInput("oiname", "Y variable:",
+                      choices=cols_names),
+          hr()
     )
   )
-))
-
-shinyUI(pageWithSidebar(
-  headerPanel('Shiny practice - Demographic movement data'),
-  sidebarPanel(
-    selectInput('xcol', 'X Variable', names(iris)),
-    selectInput('ycol', 'Y Variable', names(iris),
-                selected=names(iris)[[2]]),
-    numericInput('clusters', 'Cluster count', 3,
-                 min = 1, max = 9)
-  ),
-  mainPanel(
-    plotOutput('plot1')
-  )
-))
+)
