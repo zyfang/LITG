@@ -1,5 +1,7 @@
 library(shiny)
 
+cols_names <- c("Total foreigners influx", "Total foreigners outflux", "Total foreigners net change", "EU foreigners influx", "EU foreigners outflux", "EU foreigners net change")
+
 # Define UI for application that draws a histogram
 shinyUI(
   fluidPage(
